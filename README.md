@@ -65,9 +65,13 @@ This project is licensed under the MIT License.
 
 ## Sample Images
 ![image](https://github.com/Akshat-Raii/Plant_Disease_Detection/assets/141046886/dcb1e8e1-6905-44be-bcf0-517fbf676abe)
-![image](https://github.com/Akshat-Raii/Plant_Disease_Detection/assets/141046886/3a2bc497-a0f9-4862-82f9-12f3835e403f)
-![image](https://github.com/Akshat-Raii/Plant_Disease_Detection/assets/141046886/f54707bf-33c1-4ee6-a716-0a6e40887914)
+
+![image](https://github.com/Akshat-Raii/Plant_Disease_Detection/assets/141046886/6f8e5e4c-3c63-4041-b42f-685d093db278)
+
+![image](https://github.com/Akshat-Raii/Plant_Disease_Detection/assets/141046886/e508599b-a8ed-4788-ab2b-d9f3432cc186)
+
 ![image](https://github.com/Akshat-Raii/Plant_Disease_Detection/assets/141046886/bfd513d5-3323-48c9-836a-94f542e97bf4)
+
 ![image](https://github.com/Akshat-Raii/Plant_Disease_Detection/assets/141046886/5782040d-e32a-4446-be89-7a2ccaedcad9)
 
 
