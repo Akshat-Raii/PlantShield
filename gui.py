@@ -59,7 +59,7 @@ elif(app_mode=="About"):
     #### A new directory containing 33 test images is created later for prediction purpose.
     #### Content
     1. train (70295 images)
-    2. test (33 images)
+    2. test (31 images)
     3. validation (17572 images)             
                 """)
     
