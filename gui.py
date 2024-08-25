@@ -25,7 +25,7 @@ app_mode=st.sidebar.selectbox("Select Page",["Home","About","Disease Detector"])
 #Home page
 if(app_mode=="Home"):
     st.header("PlantShield: Your Online Plant Disease Detection Hub")
-    image_path="Images\Patch plants.gif"
+    image_path="Images/Patch plants.gif"
     st.image(image_path,use_column_width=True) # Stretch it to whole page
     st.markdown("""
     ## Welcome to the PlantShield System! 🌱🔍
