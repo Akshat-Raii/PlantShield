@@ -1,4 +1,4 @@
-# Plant Disease Detection Using Deep Learning 🌱
+# Plant Shield 🌱
 
 This project involves the detection of plant diseases using deep learning techniques. The goal is to build a model that can identify different types of plant diseases from images of leaves. The project utilizes convolutional neural networks (CNNs) for image classification, implemented using TensorFlow and Keras.
 
